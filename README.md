@@ -25,8 +25,6 @@ As fontes do Google Fonts e os arquivos do Swiper são carregados por CDN e prec
 
 ## Referência visual
 
-[Design OdontoRio no Figma](https://www.figma.com/design/msCMfyL9mOGAwvSiYI7OPr/Exerc%C3%ADcio-Odonto-Rio--Copy-?node-id=1-2)
-
 A implementação preserva a identidade visual do exercício e mantém o nome do responsável e os seis serviços consistentes entre desktop e mobile.
 
 ## Observações
